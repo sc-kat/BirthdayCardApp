@@ -1,2 +1,2 @@
 # BirthdayCardApp
-a basic android app in Kotlin
+a basic android app in Kotlin, using Views
